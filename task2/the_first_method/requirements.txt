@@ -1,0 +1,18 @@
+# 车牌识别系统依赖包
+
+# 核心框架
+PyQt5>=5.15.0
+streamlit>=1.28.0
+
+# 图像处理
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.21.0
+
+# 数据分析和可视化
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# 网络请求
+requests>=2.31.0

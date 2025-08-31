@@ -15,7 +15,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 豆包 API 配置
-ARK_API_KEY = "YOUR_API_KEY_HERE"
+ARK_API_KEY = "YOUR_API_KEY"
 API_URL = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
 
 # 车牌字符映射表
